@@ -1,0 +1,7 @@
+name: RHCore
+author: RH, flectionx
+main: com.rh.main.Main
+version: 1.4
+description: RaidersHeaven.eu ChatFilter JoinQuitEvents ColorChat!
+commands:
+  cf:
